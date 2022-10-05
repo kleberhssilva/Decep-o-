@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background: black;
+}
+.teste{
+  color: #ffffff;
+  background: gray;
+  font-size: 200%;
+  font-style: italic
+}
+.valorizar{
+  color: #ffff;
+  background: ;
+  font-size: 150%;
+}
+ 
+
